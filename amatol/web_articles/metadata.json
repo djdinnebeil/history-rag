@@ -1,0 +1,24 @@
+{
+  "web_articles": {
+    "lost-history": {
+      "source": "Lost History",
+      "title": "Brief History of Amatol, NJ"
+    },
+    "press-of-atlantic-city": {
+      "source": "Press of Atlantic City",
+      "title": "Ghost Town of Amatol, NJ"
+    },
+    "south-jersey-dot-com": {
+      "source": "SouthJersey.com",
+      "title": "Amatol, NJ: The Town"
+    },
+    "atlas-obscura": {
+      "source": "Atlas Obscura",
+      "title": "Amatol, NJ: Ghost Town"
+    },
+    "sojo-1049": {
+      "source": "SoJO 104.9",
+      "title": "Amatol Raceway"
+    }
+  }
+}

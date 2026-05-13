@@ -1,0 +1,80 @@
+THE PLANT
+The Atlantic Loading Company's plant was designed to load more than 25 percent of the entire amount of shell that the Ordnance Department had placed orders for loading, assembling, and packing. It is organized to produce shell of all types, it is believed, more rapidly and with greater economy than any other plant of its kind in the United States. The men associated in this project have produced all told over 9,000,000 rounds of ammunition of various types.
+
+Briefly, the operations of the plant consist of loading, assembling and packing fixed ammunition. The shell is loaded with trinitrotoluol (T.N.T.), or T.N.T. and ammonium nitrate, the cartridge cases are filled with smokeless powder and the booster, which finally detonates the main charge, is placed in the nose of the shell.
+
+To carry through these operations with the least possible danger and with the speed required by needs of war the most perfect organization, methods and equipment were required, and the record production of the plant is clear proof that this was fully accomplished.
+
+The loading plant is as follows:
+75 mm/m: 3 units
+4.7-inch: 1 unit
+155 mm/m: 50/50 (T.N.T. and ammonium nitrate): 2 units
+155 mm/m: 80/20 (80% ammonium nitrate, 20% T.N.T.): 3 units
+8-inch (and larger): 3 units
+Booster: 1 unit
+Rifle grenade: 1 unit
+Hand grenade: 1 unit
+Total capacity: 60,000 shell (all sizes) and 125,000 small parts, such as boosters and grenades per day.
+Shortly after the plant began producing the 4.7-inch unit, it was extended to loading of Mark III and Mark I drop bombs.
+
+DATA ON HIGH EXPLOSIVE SHELL
+Size	Weight Empty	Charge	Weight Loaded	Length
+3 in.	11.73 lbs.	1.65 lbs	15.00 lbs	11.49 in
+75 mm A.A.	10.24	1.67	15.00	10.70
+75 mm M.I	10.24	1.65	15.00	10.79
+75 mm M.XI	12.00	0.77	12.18	11.56
+75 mm M.XII	13.66	0.87	14.56	13.62
+75 mm M.XIII	14.22	0.85	14.85	13.62
+4.7 in. M.I	33.56	6.25	39.81	17.63
+6-in. M.I	72.65	13.67	86.32	22.71
+155 mm M.XIV	79.35	13.12	95.00	22.70
+155 mm M.XVII	79.35	13.67	95.00	22.70
+155 mm M.XVIII	79.35	13.17	95.00	22.70
+155 mm M.XIX	79.35	13.17	95.00	22.70
+8-in. M.I	199.48	49.42	250.00	29.06
+8-in. M.II	199.48	49.42	250.00	27.94
+240 mm M.I	429.02	86.32	510.00	44.29
+
+EXPLOSIVES REQUIRED FOR 24-HOUR DAY
+Plant	Capacity (No. of Shells)	Shell Type	Charge (lbs)	Total T.N.T. (lbs)	Ammon. Nitrate	Misc.
+75 mm	30,000	T.N.T.	0.75	97,500		
+4.7 in.	10,000	50/50	6.04	30,450	30,450	
+155 mm 50/50	6,000	50/50	7.75	46,500	46,500	
+8-in. 80/20	3,000	80/20	49.67	29,802	119,208	
+Booster	125,000			26,904		107,616
+Hand Grenade	50,000			Tetryl		6,150 lbs
+Rifle Grenade	20,000			Nitro-starch		6,750 lbs
+2,600 lbs
+
+Note:
+
+The first unit placed in operation was for the loading of 75 mm shell, operational four months after ground was broken.
+
+Within 30 days thereafter, the unit could have reached a production of 16,000 shell of this type in a day of eight hours. However, on account of Government requirements, this unit was compelled to load both 75 mm shell and aerial drop bombs. An index of the flexibility of the layout was the development of the extruding machine for loading drop bombs with Amatol in the 75 mm plant.
+
+The next unit to start operations was the booster plant; and following this, the 4.7-inch plant.
+
+One of the methods worked out by the organization that has resulted in greater safety in shell production is in the construction of the kettle in which trinitrotoluol is melted. Heretofore, the kettles were steam jacketed and should the pressure reducing valves fail the temperature of the T.N.T., or the 50/50 mix, would reach a dangerous point liable to cause explosion. In the construction used by the Atlantic Loading Company the kettles are water jacketed; that is, the steam pipes are surrounded with water between the inner and outer casings of the double kettle with a vent to the air. It is therefore impossible for the temperature of the mix to become higher than boiling water, and this is well below the danger point of high explosive temperature.
+
+The Company's engineers were the first to use belt conveyors in the production of shell. To turn out shell in large quantity and economically this operation must be one continuous process from the receiving room to the final stage. The conveyors carry the shell continuously from the first stage to the last with a resultant maximum economy of time and labor. No other plant has used the same system of loading as that worked out by the Atlantic Loading Company.
+
+The general plant layout shows the division of the operations in separate buildings in such a way that, should fire or explosion start in one building, the other buildings in which the same operations are done, may still continue at work. In all plants the more hazardous operations instead of being localized in a single structure are carried on in either two or three duplicate buildings. With the cross conveyor system, great elasticity in operation is obtainable in emergency. The buildings are separated from each other by a minimum distance of 200 feet.
+
+There are approximately 642 buildings of all classes required in the plant proper. The following list of those in the 75 mm unit indicate the character of the operating buildings:
+Receiving, cleaning and shellacking buildings
+Pouring and cooling building
+Drilling and cleaning building
+Assembling building
+Packing building
+Shipping building
+Empty box and container storage
+Cartridge case storage building
+Smokeless filling building
+Ammonium nitrate crushing and drying building
+Ammonium nitrate storage building
+T.N.T. storage service magazine
+Smokeless storage service magazine
+Primer magazine
+Booster magazine
+
+The producing units have, of course, a full complement of storage buildings, change houses for the changing of clothing of operatives, warehouses, shops, administration, and other buildings.

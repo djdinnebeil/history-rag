@@ -1,0 +1,13 @@
+{
+    "Philadelphia Inquirer": {
+      "attribution_patterns": [
+        "special to the inquirer"
+      ]
+    },
+    "default": {
+      "attribution_patterns": [
+        "special to"
+      ]
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "source_type": "book",
+    "source_id": "amatol_book",
+    "title": "Amatol Book",
+    "author": "Victor Hammel",
+    "year": 1918,
+    "citation_format": "{title}, {year}, {page}, {section}"
+}
+  
