@@ -174,10 +174,6 @@ This is a research tool designed for historical analysis. Contributions welcome 
 - UI improvements
 - Performance optimizations
 
-## 📝 License
-
-[Add your license information here]
-
 ## 🆘 Support
 
 For issues, questions, or feature requests:
